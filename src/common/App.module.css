@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #010101;
+    flex-direction: column;
+    background-color: #a8adaa;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
